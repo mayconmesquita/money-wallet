@@ -1,0 +1,46 @@
+[
+  {
+    "userId": 1,
+    "value": 1230.00
+  },
+  {
+    "userId": 2,
+    "value": 950.90
+  },
+  {
+    "userId": 12,
+    "value": 760.00
+  },
+  {
+    "userId": 4,
+    "value": 530.99
+  },
+  {
+    "userId": 5,
+    "value": 371.50
+  },
+  {
+    "userId": 6,
+    "value": 280.20
+  },
+  {
+    "userId": 7,
+    "value": 230.20
+  },
+  {
+    "userId": 3,
+    "value": 200.00
+  },
+  {
+    "userId": 9,
+    "value": 160.30
+  },
+  {
+    "userId": 10,
+    "value": 120.00
+  },
+  {
+    "userId": 11,
+    "value": 70.00
+  }
+]
